@@ -24,6 +24,7 @@ const keywordsSchema = z.object({
 const commonContentSchema = z.object({
   title: z.string(),
   description: z.string(),
+  image: z.string().optional(),
   slug: z.string().optional(),
   section: z.enum([
     "learn",

@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Web3 Domain Institute">
-  <rect width="64" height="64" rx="12" fill="#0f1f1e"/>
-  <path d="M13 18h38v6H13zM13 30h38v6H13zM13 42h38v6H13z" fill="#e6f1ea"/>
-  <circle cx="22" cy="21" r="3" fill="#4cbf7b"/>
-  <circle cx="42" cy="33" r="3" fill="#d7a84f"/>
-  <circle cx="31" cy="45" r="3" fill="#6ea6c8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <text x="32" y="44" font-family="Georgia,serif" font-size="36" font-weight="bold" fill="#e2e8f0" text-anchor="middle">W3</text>
+  <rect x="8" y="50" width="48" height="3" rx="1.5" fill="#38bdf8" opacity="0.6"/>
 </svg>

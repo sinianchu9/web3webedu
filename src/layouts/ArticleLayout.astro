@@ -35,7 +35,7 @@ const schemaType = data.schemaType;
 const fmtDate = isEn ? formatDateEn : formatDate;
 ---
 
-<BaseLayout title={data.title} description={data.description} path={path} noindex={noindex} type="article">
+<BaseLayout title={data.title} description={data.description} path={path} image={data.image} noindex={noindex} type="article">
   <Fragment slot="head">
     <SchemaBreadcrumb items={breadcrumbs} />
   {schemaType === "Course" ? (
@@ -52,16 +52,17 @@ const fmtDate = isEn ? formatDateEn : formatDate;
       publishedAt={data.publishedAt}
       updatedAt={data.updatedAt}
     />
-  ) : schemaType === "HowTo" ? (
-    <SchemaArticle
-      title={data.title}
-      description={data.description}
-      path={path}
-      publishedAt={data.publishedAt}
-      updatedAt={data.updatedAt}
-      author={data.author}
-    />
-  ) : schemaType === "ScholarlyArticle" ? (
+	) : schemaType === "HowTo" ? (
+	<SchemaArticle
+	title={data.title}
+	description={data.description}
+	path={path}
+	publishedAt={data.publishedAt}
+	updatedAt={data.updatedAt}
+	author={data.author}
+	image={data.image}
+	/>
+	) : schemaType === "ScholarlyArticle" ? (
     <SchemaCreativeWork
       title={data.title}
       description={data.description}
@@ -69,32 +70,38 @@ const fmtDate = isEn ? formatDateEn : formatDate;
       publishedAt={data.publishedAt}
       updatedAt={data.updatedAt}
     />
-  ) : (
-    <SchemaArticle
-      title={data.title}
-      description={data.description}
-      path={path}
-      publishedAt={data.publishedAt}
-      updatedAt={data.updatedAt}
-      author={data.author}
-    />
-  )}
+	) : (
+	<SchemaArticle
+	title={data.title}
+	description={data.description}
+	path={path}
+	publishedAt={data.publishedAt}
+	updatedAt={data.updatedAt}
+	author={data.author}
+	image={data.image}
+	/>
+	)}
     <SchemaFAQ faqs={data.faqs} />
   </Fragment>
 
 <Breadcrumbs items={breadcrumbs} locale={locale} />
 
 <header class={`article-hero article-hero-${variant}`}>
-  <p class="eyebrow">{data.type} / {data.cluster ?? data.section}</p>
-  <h1>{data.title}</h1>
-  <p class="lede">{data.description}</p>
-  <div class="article-meta">
-    <span>{isEn ? "Published:" : "发布日期："}{fmtDate(data.publishedAt)}</span>
-    <span>{isEn ? "Updated:" : "最后更新："}{fmtDate(data.updatedAt)}</span>
-    <span>{isEn ? "Author:" : "作者："}{data.author}</span>
-    {data.reviewer && <span>{isEn ? "Reviewer:" : "审稿："}{data.reviewer}</span>}
-    <span>{isEn ? "Risk:" : "风险级别："}{data.riskLevel}</span>
-  </div>
+ {data.image && (
+ <div class="article-cover">
+ <img src={data.image} alt={data.title} width="1200" height="630" loading="eager" />
+ </div>
+ )}
+ <p class="eyebrow">{data.type} / {data.cluster ?? data.section}</p>
+ <h1>{data.title}</h1>
+ <p class="lede">{data.description}</p>
+ <div class="article-meta">
+ <span>{isEn ? "Published:" : "发布日期："}{fmtDate(data.publishedAt)}</span>
+ <span>{isEn ? "Updated:" : "最后更新："}{fmtDate(data.updatedAt)}</span>
+ <span>{isEn ? "Author:" : "作者："}{data.author}</span>
+ {data.reviewer && <span>{isEn ? "Reviewer:" : "审稿："}{data.reviewer}</span>}
+ <span>{isEn ? "Risk:" : "风险级别："}{data.riskLevel}</span>
+ </div>
 </header>
 
 <div class="article-grid">
