@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="50%" style="stop-color:#162040"/>
+      <stop offset="100%" style="stop-color:#0f1a35"/>
+    </linearGradient>
+    <linearGradient id="stable" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#26a17b"/>
+      <stop offset="50%" style="stop-color:#2775ca"/>
+      <stop offset="100%" style="stop-color:#26a17b"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+  <!-- Grid -->
+  <g opacity="0.07" stroke="#26a17b" stroke-width="0.5">
+    <line x1="0" y1="0" x2="0" y2="630"/><line x1="40" y1="0" x2="40" y2="630"/><line x1="80" y1="0" x2="80" y2="630"/><line x1="120" y1="0" x2="120" y2="630"/><line x1="160" y1="0" x2="160" y2="630"/><line x1="200" y1="0" x2="200" y2="630"/><line x1="240" y1="0" x2="240" y2="630"/><line x1="280" y1="0" x2="280" y2="630"/><line x1="320" y1="0" x2="320" y2="630"/><line x1="360" y1="0" x2="360" y2="630"/><line x1="400" y1="0" x2="400" y2="630"/><line x1="440" y1="0" x2="440" y2="630"/><line x1="480" y1="0" x2="480" y2="630"/><line x1="520" y1="0" x2="520" y2="630"/><line x1="560" y1="0" x2="560" y2="630"/><line x1="600" y1="0" x2="600" y2="630"/><line x1="640" y1="0" x2="640" y2="630"/><line x1="680" y1="0" x2="680" y2="630"/><line x1="720" y1="0" x2="720" y2="630"/><line x1="760" y1="0" x2="760" y2="630"/><line x1="800" y1="0" x2="800" y2="630"/><line x1="840" y1="0" x2="840" y2="630"/><line x1="880" y1="0" x2="880" y2="630"/><line x1="920" y1="0" x2="920" y2="630"/><line x1="960" y1="0" x2="960" y2="630"/><line x1="1000" y1="0" x2="1000" y2="630"/><line x1="1040" y1="0" x2="1040" y2="630"/><line x1="1080" y1="0" x2="1080" y2="630"/><line x1="1120" y1="0" x2="1120" y2="630"/><line x1="1160" y1="0" x2="1160" y2="630"/><line x1="1200" y1="0" x2="1200" y2="630"/>
+    <line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="40" x2="1200" y2="40"/><line x1="0" y1="80" x2="1200" y2="80"/><line x1="0" y1="120" x2="1200" y2="120"/><line x1="0" y1="160" x2="1200" y2="160"/><line x1="0" y1="200" x2="1200" y2="200"/><line x1="0" y1="240" x2="1200" y2="240"/><line x1="0" y1="280" x2="1200" y2="280"/><line x1="0" y1="320" x2="1200" y2="320"/><line x1="0" y1="360" x2="1200" y2="360"/><line x1="0" y1="400" x2="1200" y2="400"/><line x1="0" y1="440" x2="1200" y2="440"/><line x1="0" y1="480" x2="1200" y2="480"/><line x1="0" y1="520" x2="1200" y2="520"/><line x1="0" y1="560" x2="1200" y2="560"/><line x1="0" y1="600" x2="1200" y2="600"/><line x1="0" y1="630" x2="1200" y2="630"/>
+  </g>
+  <!-- Diagonal circuit lines -->
+  <g opacity="0.05" stroke="#2775ca" stroke-width="1.5">
+    <line x1="0" y1="500" x2="300" y2="200"/><line x1="900" y1="430" x2="1200" y2="130"/>
+    <line x1="100" y1="630" x2="500" y2="230"/>
+  </g>
+  <!-- Hexagons -->
+  <g opacity="0.1" fill="none" stroke="#26a17b" stroke-width="1">
+    <polygon points="120,120 155,100 190,120 190,160 155,180 120,160"/>
+    <polygon points="1010,470 1045,450 1080,470 1080,510 1045,530 1010,510"/>
+    <polygon points="180,440 215,420 250,440 250,480 215,500 180,480"/>
+  </g>
+  <!-- USDT symbol -->
+  <circle cx="250" cy="315" r="55" fill="none" stroke="#26a17b" stroke-width="2" opacity="0.25"/>
+  <text x="250" y="325" font-family="Arial,sans-serif" font-size="40" font-weight="bold" fill="#26a17b" text-anchor="middle" opacity="0.4">₮</text>
+  <!-- USDC symbol -->
+  <circle cx="950" cy="315" r="45" fill="none" stroke="#2775ca" stroke-width="2" opacity="0.25"/>
+  <text x="950" y="325" font-family="Arial,sans-serif" font-size="32" fill="#2775ca" text-anchor="middle" opacity="0.4">$</text>
+  <!-- Stability graph line -->
+  <polyline points="400,520 450,515 500,518 550,510 600,512 650,508 700,510 750,505 800,507" fill="none" stroke="#26a17b" stroke-width="2" opacity="0.2"/>
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#stable)"/>
+  <!-- Bottom accent bar -->
+  <rect x="0" y="627" width="1200" height="3" fill="url(#stable)"/>
+  <!-- Main title -->
+  <text x="600" y="270" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">Stablecoin Economics</text>
+  <text x="600" y="325" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">&amp; Domain Payment</text>
+  <!-- Subtitle -->
+  <text x="600" y="385" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#a0aec0" text-anchor="middle">USDT · USDC · Cross-Border Settlement · Reserve Transparency</text>
+  <!-- Keywords bottom -->
+  <text x="600" y="450" font-family="monospace" font-size="14" fill="#26a17b" text-anchor="middle" opacity="0.7">Tether · Circle · BIS · FATF · Depeg Risk · Compliance</text>
+  <!-- Course badge -->
+  <rect x="500" y="490" width="200" height="36" rx="18" fill="none" stroke="#26a17b" stroke-width="1.5" opacity="0.5"/>
+  <text x="600" y="514" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#26a17b" text-anchor="middle">COURSE</text>
+  <!-- Corner decorations -->
+  <path d="M0,50 L0,0 L50,0" fill="none" stroke="#26a17b" stroke-width="2" opacity="0.3"/>
+  <path d="M1200,50 L1200,0 L1150,0" fill="none" stroke="#2775ca" stroke-width="2" opacity="0.3"/>
+  <path d="M0,580 L0,630 L50,630" fill="none" stroke="#2775ca" stroke-width="2" opacity="0.3"/>
+  <path d="M1200,580 L1200,630 L1150,630" fill="none" stroke="#26a17b" stroke-width="2" opacity="0.3"/>
+</svg>

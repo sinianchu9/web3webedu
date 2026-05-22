@@ -43,6 +43,22 @@
     {
       "title": "USDT购买域名交易费用分析：TRC20与ERC20网络手续费对比",
       "url": "/library/buy-domain-with-usdt/usdt-domain-transaction-fee/"
+    },
+    {
+      "title": "USDT域名注册商对比与选择指南",
+      "url": "/library/buy-domain-with-usdt/registrar-comparison-selection/"
+    },
+    {
+      "title": "USDT支付域名注册流程中的DNS配置要求",
+      "url": "/library/buy-domain-with-usdt/usdt-domain-dns-configuration/"
+    },
+    {
+      "title": "FATF旅行规则对USDT域名支付合规路径的影响",
+      "url": "/library/buy-domain-with-usdt/fatf-travel-rule-usdt-domain-compliance/"
+    },
+    {
+      "title": "USDT支付通道稳定性与域名续费保障",
+      "url": "/library/buy-domain-with-usdt/usdt-payment-channel-stability/"
     }
   ],
   "buy-domain-with-crypto": [
@@ -77,6 +93,18 @@
     {
       "title": "Bitcoin购买域名注册：流程、限制与合规分析",
       "url": "/library/buy-domain-with-crypto/bitcoin-domain-registration/"
+    },
+    {
+      "title": "ERC-20代币支付域名注册的技术实现与合约交互风险",
+      "url": "/library/buy-domain-with-crypto/erc20-domain-payment-risk/"
+    },
+    {
+      "title": "加密货币域名支付体系：链上结算、网络选择与注册商评估入门",
+      "url": "/learn/crypto-domain-payment-basics/"
+    },
+    {
+      "title": "多链加密货币域名支付对比与注册商集成评估",
+      "url": "/library/buy-domain-with-crypto/multi-chain-crypto-domain-payment-comparison/"
     }
   ],
   "private-domain-registration": [
@@ -119,8 +147,16 @@
     {
       "title": "免实名域名注册：合规边界、隐私保护与风险分析",
       "url": "/library/private-domain-registration/no-real-name-domain/"
-    }
-  ],
+    },
+    {
+      "title": "WHOIS隐私保护代理服务对比：主流注册商隐私代理机制差异分析",
+"url": "/library/private-domain-registration/whois-privacy-proxy-comparison/"
+},
+{
+"title": "域名注册隐私代理服务合规分析",
+"url": "/library/private-domain-registration/domain-privacy-proxy-compliance-analysis/"
+}
+],
   "web3-domain-identity": [
     {
       "title": "Web3域名与数字身份研究",
@@ -149,6 +185,18 @@
     {
       "title": "Web3身份与钱包地址映射机制研究",
       "url": "/research/web3-domain-identity/wallet-identity-mapping/"
+    },
+    {
+      "title": "DID验证机制：去中心化身份的技术实现与标准",
+      "url": "/research/web3-domain-identity/did-verification-mechanism/"
+    },
+    {
+      "title": "Web3域名身份与ENS去中心化解析机制",
+      "url": "/research/web3-domain-identity/ens-decentralized-resolution-mechanism/"
+    },
+    {
+      "title": "Web3域名作为跨链身份标识的互操作性分析",
+      "url": "/research/web3-domain-identity/web3-domain-cross-chain-identity/"
     }
   ],
   "stablecoin-economy": [
@@ -191,6 +239,18 @@
     {
       "title": "USDT储备审计透明度对域名支付信任的影响",
       "url": "/research/stablecoin-economy/usdt-reserve-audit-domain-trust/"
+    },
+    {
+      "title": "BIS稳定币监管框架对域名支付基础设施的政策影响",
+      "url": "/research/stablecoin-economy/bis-stablecoin-regulation-domain-infrastructure/"
+    },
+    {
+      "title": "稳定币经济与域名支付：USDT、USDC对域名市场的影响",
+      "url": "/learn/stablecoin-domain-economy-basics/"
+    },
+    {
+      "title": "USDT储备金审计与稳定币锚定机制对域名支付信任的影响",
+      "url": "/research/stablecoin-economy/usdt-reserve-audit-peg-mechanism-domain-payment-trust/"
     }
   ],
   "dns-security-governance": [
@@ -237,6 +297,22 @@
     {
       "title": "DNS缓存投毒攻击：Kaminsky攻击原理与DNSSEC防御机制",
       "url": "/research/dns-security-governance/dns-cache-poisoning/"
+    },
+    {
+      "title": "DNS安全检查清单框架：域名持有者的系统性防护指南",
+      "url": "/research/dns-security-governance/dns-security-checklist-framework/"
+    },
+    {
+      "title": "DNSSEC密钥轮换中的KSK安全治理框架",
+      "url": "/research/dns-security-governance/dnssec-ksk-rotation-governance/"
+    },
+    {
+      "title": "DNS响应策略区RPZ部署与域名治理实践",
+      "url": "/research/dns-security-governance/dns-rpz-deployment-governance/"
+    },
+    {
+      "title": "DNSSEC区域签名密钥轮换治理框架",
+      "url": "/research/dns-security-governance/dnssec-zsk-rollover-governance/"
     }
   ],
   "cbdc-domain-infrastructure": [
@@ -279,6 +355,22 @@
     {
       "title": "数字欧元与域名支付基础设施：前景与挑战",
       "url": "/research/cbdc-domain-infrastructure/digital-euro-domain-payment/"
+    },
+    {
+      "title": "CBDC跨境域名支付路径与SWIFT替代方案",
+      "url": "/research/cbdc-domain-infrastructure/cbdc-cross-border-payment-swift-alternative/"
+    },
+    {
+      "title": "CBDC跨境结算中的域名基础设施依赖分析",
+      "url": "/research/cbdc-domain-infrastructure/cbdc-cross-border-settlement-domain-dependency/"
+    },
+    {
+      "title": "CBDC跨境支付清算网络与域名服务体系互联机制研究",
+      "url": "/research/cbdc-domain-infrastructure/cbdc-cross-border-clearancing-domain-interconnection/"
+    },
+    {
+      "title": "CBDC域名系统与跨境清算基础设施互操作性",
+      "url": "/research/cbdc-domain-infrastructure/cbdc-domain-cross-border-clearing-interoperability/"
     }
   ],
   "nft-domain-market": [
@@ -317,8 +409,16 @@
     {
       "title": "NFT域名流动性分析：交易深度、市场机制与风险评估",
       "url": "/research/nft-domain-market/nft-domain-liquidity/"
-    }
-  ],
+    },
+    {
+      "title": "NFT域名二级市场交易流程与平台风险",
+"url": "/research/nft-domain-market/nft-domain-secondary-market-trading/"
+},
+{
+"title": "NFT域名投资风险评估框架",
+"url": "/research/nft-domain-market/nft-domain-investment-risk-framework/"
+}
+],
   "cross-border-domain-compliance": [
     {
       "title": "跨境域名合规研究",
@@ -359,6 +459,18 @@
     {
       "title": "GDPR对域名WHOIS数据跨境传输的合规要求分析",
       "url": "/research/cross-border-domain-compliance/gdpr-domain-whois-compliance/"
+    },
+    {
+      "title": "GDPR域名注册数据合规：跨境隐私保护的实践框架",
+      "url": "/research/cross-border-domain-compliance/gdpr-domain-registration-data-compliance/"
+    },
+    {
+      "title": "GDPR与ICANN域名合规的跨境冲突解决路径",
+      "url": "/research/cross-border-domain-compliance/gdpr-icann-domain-compliance-conflict-resolution/"
+    },
+    {
+      "title": "FATF旅行规则对跨境域名注册合规的影响分析",
+      "url": "/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/"
     }
   ]
 }
