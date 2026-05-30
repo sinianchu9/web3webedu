@@ -14,10 +14,13 @@
       "/library/buy-domain-with-usdt/registrar-comparison-selection/",
       "/library/buy-domain-with-usdt/usdt-domain-dns-configuration/",
       "/library/buy-domain-with-usdt/fatf-travel-rule-usdt-domain-compliance/",
-      "/library/buy-domain-with-usdt/usdt-payment-channel-stability/"
-    ],
-    "tool": "/tools/usdt-domain-risk-checklist/",
-    "report": "/reports/2026-usdt-domain-report/",
+"/library/buy-domain-with-usdt/usdt-payment-channel-stability/",
+"/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-registration/",
+ "/library/buy-domain-with-usdt/usdt-transaction-confirmation-domain-transfer-risk/",
+  "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/"
+ ],
+ "tool": "/tools/usdt-domain-risk-checklist/",
+"report": "/reports/2026-usdt-domain-report/",
     "faq": "/faq/usdt-domain-registration-faq/",
     "course": "/learn/advanced-usdt-domain-payment/",
     "glossary": [
@@ -37,10 +40,12 @@
       "/library/buy-domain-with-crypto/sol-domain-payment/",
       "/library/buy-domain-with-crypto/bitcoin-domain-registration/",
       "/library/buy-domain-with-crypto/erc20-domain-payment-risk/",
-      "/library/buy-domain-with-crypto/multi-chain-crypto-domain-payment-comparison/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-crypto-domain-registrar-observatory/",
+"/library/buy-domain-with-crypto/multi-chain-crypto-domain-payment-comparison/",
+"/library/buy-domain-with-crypto/crypto-payment-channel-comparison/",
+"/library/buy-domain-with-crypto/crypto-payment-gateway-domain-registration-compliance/"
+],
+"tool": "/tools/crypto-domain-registrar-comparison/",
+"report": "/reports/2026-crypto-domain-registrar-observatory/",
     "course": "/learn/crypto-domain-payment-basics/",
     "faq": "/faq/crypto-domain-payment-faq/",
     "glossary": [
@@ -62,10 +67,12 @@
       "/library/private-domain-registration/gdpr-domain-data/",
       "/library/private-domain-registration/no-real-name-domain/",
 "/library/private-domain-registration/whois-privacy-proxy-comparison/",
-"/library/private-domain-registration/domain-privacy-proxy-compliance-analysis/"
-],
-    "tool": "/tools/domain-privacy-checklist/",
-    "report": "/reports/2026-domain-privacy-compliance-report/",
+"/library/private-domain-registration/domain-privacy-proxy-compliance-analysis/",
+ "/library/private-domain-registration/privacy-proxy-legal-enforcement-boundary/",
+"/library/private-domain-registration/whois-privacy-proxy-data-protection/"
+ ],
+ "tool": "/tools/domain-privacy-checklist/",
+ "report": "/reports/2026-domain-privacy-compliance-report/",
     "faq": "/faq/private-domain-registration-faq/",
     "course": "/learn/advanced-domain-privacy/",
     "glossary": [
@@ -85,11 +92,13 @@
       "/research/web3-domain-identity/wallet-identity-mapping/",
       "/research/web3-domain-identity/did-verification-mechanism/",
       "/research/web3-domain-identity/ens-decentralized-resolution-mechanism/",
-      "/research/web3-domain-identity/web3-domain-cross-chain-identity/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-web3-domain-trends/",
-    "faq": "/faq/web3-domain-identity-faq/",
+"/research/web3-domain-identity/web3-domain-cross-chain-identity/",
+ "/research/web3-domain-identity/web3-domain-ssi-integration/",
+        "/research/web3-domain-identity/ens-dns-interoperability-assessment/"
+      ],
+      "tool": "/tools/crypto-domain-registrar-comparison/",
+      "report": "/reports/2026-web3-domain-trends/",
+ "faq":"/faq/web3-domain-identity-faq/",
     "course": "/learn/advanced-web3-domain-integration/",
     "glossary": [
       "/glossary/web3-domain/",
@@ -112,10 +121,11 @@
       "/research/stablecoin-economy/usdt-peg-mechanism-depeg-risk/",
       "/research/stablecoin-economy/usdt-reserve-audit-domain-trust/",
       "/research/stablecoin-economy/bis-stablecoin-regulation-domain-infrastructure/",
-      "/research/stablecoin-economy/usdt-reserve-audit-peg-mechanism-domain-payment-trust/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-stablecoin-internet-payments/",
+"/research/stablecoin-economy/usdt-reserve-audit-peg-mechanism-domain-payment-trust/",
+"/research/stablecoin-economy/usdt-depeg-risk-domain-renewal-payment/"
+],
+"tool": "/tools/crypto-domain-registrar-comparison/",
+"report": "/reports/2026-stablecoin-internet-payments/",
     "course": "/learn/stablecoin-domain-economy-basics/",
     "faq": "/faq/stablecoin-economy-faq/",
     "glossary": [
@@ -139,10 +149,13 @@
       "/research/dns-security-governance/dns-security-checklist-framework/",
       "/research/dns-security-governance/dnssec-ksk-rotation-governance/",
       "/research/dns-security-governance/dns-rpz-deployment-governance/",
-      "/research/dns-security-governance/dnssec-zsk-rollover-governance/"
-    ],
-    "tool": "/tools/dnssec-check-guide/",
-    "report": "/reports/2026-dns-security-governance-report/",
+"/research/dns-security-governance/dnssec-zsk-rollover-governance/",
+"/research/dns-security-governance/dnssec-key-rotation-security-assessment/",
+ "/research/dns-security-governance/dns-ptr-record-security-audit/",
+  "/research/dns-security-governance/dns-rrl-rate-limiting-governance/"
+ ],
+ "tool": "/tools/dnssec-check-guide/",
+"report": "/reports/2026-dns-security-governance-report/",
     "faq": "/faq/dns-security-faq/",
     "course": "/learn/advanced-dnssec-deployment/",
     "glossary": [
@@ -164,10 +177,12 @@
       "/research/cbdc-domain-infrastructure/cbdc-cross-border-payment-swift-alternative/",
       "/research/cbdc-domain-infrastructure/cbdc-cross-border-settlement-domain-dependency/",
       "/research/cbdc-domain-infrastructure/cbdc-cross-border-clearancing-domain-interconnection/",
-      "/research/cbdc-domain-infrastructure/cbdc-domain-cross-border-clearing-interoperability/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-cbdc-domain-report/",
+"/research/cbdc-domain-infrastructure/cbdc-domain-cross-border-clearing-interoperability/",
+"/research/cbdc-domain-infrastructure/cbdc-cross-border-settlement-dns-resolution-risk/",
+"/research/cbdc-domain-infrastructure/cbdc-dns-resolution-latency-settlement/"
+ ],
+ "tool": "/tools/crypto-domain-registrar-comparison/",
+ "report": "/reports/2026-cbdc-domain-report/",
     "faq": "/faq/cbdc-domain-faq/",
     "course": "/learn/advanced-cbdc-domain-payment/",
     "glossary": [
@@ -186,11 +201,13 @@
       "/research/nft-domain-market/nft-domain-valuation/",
       "/research/nft-domain-market/nft-domain-liquidity/",
 "/research/nft-domain-market/nft-domain-secondary-market-trading/",
-"/research/nft-domain-market/nft-domain-investment-risk-framework/"
+"/research/nft-domain-market/nft-domain-investment-risk-framework/",
+"/research/nft-domain-market/nft-domain-secondary-market-liquidity-risk/",
+"/research/nft-domain-market/ens-secondary-market-pricing-model/"
 ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-nft-domain-market-report/",
-    "faq": "/faq/nft-domain-faq/",
+ "tool": "/tools/crypto-domain-registrar-comparison/",
+ "report": "/reports/2026-nft-domain-market-report/",
+  "faq": "/faq/nft-domain-faq/",
     "course": "/learn/advanced-nft-domain-trading/",
     "glossary": [
       "/glossary/web3-domain/",
@@ -210,10 +227,11 @@
       "/research/cross-border-domain-compliance/gdpr-domain-whois-compliance/",
       "/research/cross-border-domain-compliance/gdpr-domain-registration-data-compliance/",
       "/research/cross-border-domain-compliance/gdpr-icann-domain-compliance-conflict-resolution/",
-      "/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/"
-    ],
-    "tool": "/tools/domain-privacy-checklist/",
-    "report": "/reports/2026-cross-border-domain-compliance-report/",
+"/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/",
+        "/research/cross-border-domain-compliance/multi-jurisdiction-domain-dispute-compliance-path/"
+      ],
+      "tool": "/tools/domain-privacy-checklist/",
+      "report": "/reports/2026-cross-border-domain-compliance-report/",
     "faq": "/faq/cross-border-domain-compliance-faq/",
     "course": "/learn/advanced-cross-border-domain-compliance/",
     "glossary": [
