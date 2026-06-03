@@ -58,22 +58,26 @@
     },
     {
       "title": "USDT支付通道稳定性与域名续费保障",
-"url": "/library/buy-domain-with-usdt/usdt-payment-channel-stability/"
-},
-{
-"title": "USDT链上交易确认时延对域名即时开通的影响机制",
-"url": "/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-registration/"
-},
-{
-"title": "USDT链上交易确认风险与域名转移安全评估",
-"url": "/library/buy-domain-with-usdt/usdt-transaction-confirmation-domain-transfer-risk/"
-},
-{
-"title": "USDT交易不可逆性对域名注册的风险评估",
-"url": "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/"
-}
-],
-"buy-domain-with-crypto": [
+      "url": "/library/buy-domain-with-usdt/usdt-payment-channel-stability/"
+    },
+    {
+      "title": "USDT链上交易确认时延对域名即时开通的影响机制",
+      "url": "/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-registration/"
+    },
+    {
+      "title": "USDT链上交易确认风险与域名转移安全评估",
+      "url": "/library/buy-domain-with-usdt/usdt-transaction-confirmation-domain-transfer-risk/"
+    },
+    {
+      "title": "USDT交易不可逆性对域名注册的风险评估",
+      "url": "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/"
+    },
+    {
+      "title": "USDT支付通道确认时间对比与域名注册时效影响",
+      "url": "/library/buy-domain-with-usdt/usdt-payment-channel-confirmation-comparison/"
+    }
+  ],
+  "buy-domain-with-crypto": [
     {
       "title": "加密货币购买域名完整指南",
       "url": "/library/buy-domain-with-crypto/"
@@ -114,20 +118,24 @@
       "title": "加密货币域名支付体系：链上结算、网络选择与注册商评估入门",
       "url": "/learn/crypto-domain-payment-basics/"
     },
-{
-"title": "多链加密货币域名支付对比与注册商集成评估",
-"url": "/library/buy-domain-with-crypto/multi-chain-crypto-domain-payment-comparison/"
-},
-{
-"title": "加密货币支付通道对比与域名注册成本分析",
-"url": "/library/buy-domain-with-crypto/crypto-payment-channel-comparison/"
-},
-{
-"title": "加密货币支付网关域名注册合规审查",
+    {
+      "title": "多链加密货币域名支付对比与注册商集成评估",
+      "url": "/library/buy-domain-with-crypto/multi-chain-crypto-domain-payment-comparison/"
+    },
+    {
+      "title": "加密货币支付通道对比与域名注册成本分析",
+      "url": "/library/buy-domain-with-crypto/crypto-payment-channel-comparison/"
+    },
+    {
+      "title": "加密货币支付网关域名注册合规审查",
 "url": "/library/buy-domain-with-crypto/crypto-payment-gateway-domain-registration-compliance/"
-}
-],
-"private-domain-registration": [
+      },
+      {
+        "title": "稳定币支付网关与域名注册合规路径",
+        "url": "/library/buy-domain-with-crypto/stablecoin-payment-gateway-domain-registration/"
+      }
+      ],
+      "private-domain-registration": [
     {
       "title": "隐私域名注册完整指南",
       "url": "/library/private-domain-registration/"
@@ -170,22 +178,26 @@
     },
     {
       "title": "WHOIS隐私保护代理服务对比：主流注册商隐私代理机制差异分析",
-"url": "/library/private-domain-registration/whois-privacy-proxy-comparison/"
-},
-{
+      "url": "/library/private-domain-registration/whois-privacy-proxy-comparison/"
+    },
+    {
       "title": "域名注册隐私代理服务合规分析",
       "url": "/library/private-domain-registration/domain-privacy-proxy-compliance-analysis/"
     },
     {
- "title": "域名隐私代理服务的法律效力与执行边界",
- "url": "/library/private-domain-registration/privacy-proxy-legal-enforcement-boundary/"
- },
- {
- "title": "WHOIS隐私代理与注册商数据保护责任划分",
- "url": "/library/private-domain-registration/whois-privacy-proxy-data-protection/"
- }
- ],
- "web3-domain-identity": [
+      "title": "域名隐私代理服务的法律效力与执行边界",
+      "url": "/library/private-domain-registration/privacy-proxy-legal-enforcement-boundary/"
+    },
+    {
+      "title": "WHOIS隐私代理与注册商数据保护责任划分",
+"url": "/library/private-domain-registration/whois-privacy-proxy-data-protection/"
+        },
+        {
+          "title": "WHOIS隐私代理服务数据保护合规评估",
+          "url": "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/"
+        }
+      ],
+    "web3-domain-identity": [
     {
       "title": "Web3域名与数字身份研究",
       "url": "/research/web3-domain-identity/"
@@ -224,25 +236,28 @@
     },
     {
       "title": "Web3域名作为跨链身份标识的互操作性分析",
-"url": "/research/web3-domain-identity/web3-domain-cross-chain-identity/"
-      },
-      {
-"title": "Web3域名与自主主权身份（SSI）的集成机制研究",
-"url": "/research/web3-domain-identity/web3-domain-ssi-integration/"
-},
-{
-"title": "Web3域名ENS与DNS互操作性机制评估",
-"url": "/research/web3-domain-identity/ens-dns-interoperability-assessment/"
-}
-],
-"stablecoin-economy":
- [
-{
-"title": "稳定币经济影响研究",
-"url": "/research/stablecoin-economy/"
-},
-{
-"title": "稳定币与域名支付",
+      "url": "/research/web3-domain-identity/web3-domain-cross-chain-identity/"
+    },
+    {
+      "title": "Web3域名与自主主权身份（SSI）的集成机制研究",
+      "url": "/research/web3-domain-identity/web3-domain-ssi-integration/"
+    },
+    {
+      "title": "Web3域名ENS与DNS互操作性机制评估",
+      "url": "/research/web3-domain-identity/ens-dns-interoperability-assessment/"
+    },
+    {
+      "title": "Web3域名在去中心化身份验证中的应用评估",
+      "url": "/research/web3-domain-identity/web3-domain-did-verification-application/"
+    }
+  ],
+  "stablecoin-economy": [
+    {
+      "title": "稳定币经济影响研究",
+      "url": "/research/stablecoin-economy/"
+    },
+    {
+      "title": "稳定币与域名支付",
       "url": "/research/stablecoin-economy/stablecoins-and-domain-payments/"
     },
     {
@@ -287,14 +302,18 @@
     },
     {
       "title": "USDT储备金审计与稳定币锚定机制对域名支付信任的影响",
-"url": "/research/stablecoin-economy/usdt-reserve-audit-peg-mechanism-domain-payment-trust/"
-},
-{
-"title": "USDT脱锚风险事件对域名续费支付通道稳定性的影响评估",
-"url": "/research/stablecoin-economy/usdt-depeg-risk-domain-renewal-payment/"
-}
-],
-"dns-security-governance": [
+      "url": "/research/stablecoin-economy/usdt-reserve-audit-peg-mechanism-domain-payment-trust/"
+    },
+    {
+      "title": "USDT脱锚风险事件对域名续费支付通道稳定性的影响评估",
+      "url": "/research/stablecoin-economy/usdt-depeg-risk-domain-renewal-payment/"
+    },
+    {
+      "title": "稳定币监管框架演变对域名支付合规路径的影响",
+      "url": "/research/stablecoin-economy/stablecoin-regulation-domain-compliance/"
+    }
+  ],
+  "dns-security-governance": [
     {
       "title": "DNS安全与域名治理研究",
       "url": "/research/dns-security-governance/"
@@ -351,24 +370,28 @@
       "title": "DNS响应策略区RPZ部署与域名治理实践",
       "url": "/research/dns-security-governance/dns-rpz-deployment-governance/"
     },
-{
-"title": "DNSSEC区域签名密钥轮换治理框架",
-"url": "/research/dns-security-governance/dnssec-zsk-rollover-governance/"
-},
-{
-"title": "DNSSEC密钥轮换机制与域名安全评估",
-"url": "/research/dns-security-governance/dnssec-key-rotation-security-assessment/"
-},
-{
-"title": "DNS反向解析PTR记录安全审计评估",
-"url": "/research/dns-security-governance/dns-ptr-record-security-audit/"
-},
-{
-"title": "DNS响应速率限制RRL配置与域名治理评估",
+    {
+      "title": "DNSSEC区域签名密钥轮换治理框架",
+      "url": "/research/dns-security-governance/dnssec-zsk-rollover-governance/"
+    },
+    {
+      "title": "DNSSEC密钥轮换机制与域名安全评估",
+      "url": "/research/dns-security-governance/dnssec-key-rotation-security-assessment/"
+    },
+    {
+      "title": "DNS反向解析PTR记录安全审计评估",
+      "url": "/research/dns-security-governance/dns-ptr-record-security-audit/"
+    },
+    {
+      "title": "DNS响应速率限制RRL配置与域名治理评估",
 "url": "/research/dns-security-governance/dns-rrl-rate-limiting-governance/"
-}
-],
-"cbdc-domain-infrastructure": [
+      },
+      {
+        "title": "DNS响应速率限制与DDoS防护治理机制",
+        "url": "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/"
+      }
+      ],
+      "cbdc-domain-infrastructure": [
     {
       "title": "CBDC与域名基础设施研究",
       "url": "/research/cbdc-domain-infrastructure/"
@@ -427,14 +450,18 @@
     },
     {
       "title": "CBDC跨境支付结算中的域名解析风险与缓解策略",
-"url": "/research/cbdc-domain-infrastructure/cbdc-cross-border-settlement-dns-resolution-risk/"
-},
-{
-"title": "CBDC域名结算中的DNS解析延迟评估",
+      "url": "/research/cbdc-domain-infrastructure/cbdc-cross-border-settlement-dns-resolution-risk/"
+    },
+    {
+      "title": "CBDC域名结算中的DNS解析延迟评估",
 "url": "/research/cbdc-domain-infrastructure/cbdc-dns-resolution-latency-settlement/"
-}
-],
-"nft-domain-market": [
+        },
+        {
+          "title": "CBDC多边桥接网络中域名命名体系与DNS治理框架",
+          "url": "/research/cbdc-domain-infrastructure/cbdc-mbridge-domain-naming-dns-governance/"
+        }
+      ],
+    "nft-domain-market": [
     {
       "title": "NFT域名市场研究",
       "url": "/research/nft-domain-market/"
@@ -473,25 +500,24 @@
     },
     {
       "title": "NFT域名二级市场交易流程与平台风险",
-"url": "/research/nft-domain-market/nft-domain-secondary-market-trading/"
-},
-{
-"title": "NFT域名投资风险评估框架",
-"url": "/research/nft-domain-market/nft-domain-investment-risk-framework/"
-},
-{
-"title": "NFT域名二级市场流动性风险评估",
-"url": "/research/nft-domain-market/nft-domain-secondary-market-liquidity-risk/"
-},
-{
-"title": "ENS域名二级市场定价机制与估值模型",
-"url": "/research/nft-domain-market/ens-secondary-market-pricing-model/"
-}
-],
-"cross-border-domain-compliance":
-[
-{
-"title": "跨境域名合规研究",
+      "url": "/research/nft-domain-market/nft-domain-secondary-market-trading/"
+    },
+    {
+      "title": "NFT域名投资风险评估框架",
+      "url": "/research/nft-domain-market/nft-domain-investment-risk-framework/"
+    },
+    {
+      "title": "NFT域名二级市场流动性风险评估",
+      "url": "/research/nft-domain-market/nft-domain-secondary-market-liquidity-risk/"
+    },
+    {
+      "title": "ENS域名二级市场定价机制与估值模型",
+      "url": "/research/nft-domain-market/ens-secondary-market-pricing-model/"
+    }
+  ],
+  "cross-border-domain-compliance": [
+    {
+      "title": "跨境域名合规研究",
       "url": "/research/cross-border-domain-compliance/"
     },
     {
@@ -540,11 +566,15 @@
     },
     {
       "title": "FATF旅行规则对跨境域名注册合规的影响分析",
-"url": "/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/"
-      },
-      {
-        "title": "跨境域名争议解决中的多法域合规路径研究",
-        "url": "/research/cross-border-domain-compliance/multi-jurisdiction-domain-dispute-compliance-path/"
-      }
-    ]
+      "url": "/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/"
+    },
+    {
+      "title": "跨境域名争议解决中的多法域合规路径研究",
+      "url": "/research/cross-border-domain-compliance/multi-jurisdiction-domain-dispute-compliance-path/"
+    },
+    {
+      "title": "跨境域名注册中的反洗钱合规评估机制",
+      "url": "/research/cross-border-domain-compliance/aml-compliance-assessment-cross-border-domain/"
+    }
+  ]
 }
