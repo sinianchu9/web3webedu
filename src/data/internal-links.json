@@ -69,15 +69,19 @@
       "url": "/library/buy-domain-with-usdt/usdt-transaction-confirmation-domain-transfer-risk/"
     },
     {
-      "title": "USDT交易不可逆性对域名注册的风险评估",
-      "url": "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/"
-    },
-    {
-      "title": "USDT支付通道确认时间对比与域名注册时效影响",
-      "url": "/library/buy-domain-with-usdt/usdt-payment-channel-confirmation-comparison/"
-    }
-  ],
-  "buy-domain-with-crypto": [
+"title": "USDT交易不可逆性对域名注册的风险评估",
+"url": "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/"
+},
+{
+"title": "USDT支付通道确认时间对比与域名注册时效影响",
+"url": "/library/buy-domain-with-usdt/usdt-payment-channel-confirmation-comparison/"
+},
+{
+"title": "USDT支付通道确认延迟对域名交易时效的影响机制",
+"url": "/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-transaction-timing/"
+}
+],
+"buy-domain-with-crypto": [
     {
       "title": "加密货币购买域名完整指南",
       "url": "/library/buy-domain-with-crypto/"
@@ -128,14 +132,18 @@
     },
     {
       "title": "加密货币支付网关域名注册合规审查",
-"url": "/library/buy-domain-with-crypto/crypto-payment-gateway-domain-registration-compliance/"
-      },
-      {
-        "title": "稳定币支付网关与域名注册合规路径",
-        "url": "/library/buy-domain-with-crypto/stablecoin-payment-gateway-domain-registration/"
-      }
-      ],
-      "private-domain-registration": [
+      "url": "/library/buy-domain-with-crypto/crypto-payment-gateway-domain-registration-compliance/"
+    },
+    {
+"title": "稳定币支付网关与域名注册合规路径",
+"url": "/library/buy-domain-with-crypto/stablecoin-payment-gateway-domain-registration/"
+},
+{
+"title": "加密货币域名支付通道Layer2扩展方案与ICANN合规评估",
+"url": "/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/"
+}
+],
+"private-domain-registration": [
     {
       "title": "隐私域名注册完整指南",
       "url": "/library/private-domain-registration/"
@@ -190,14 +198,14 @@
     },
     {
       "title": "WHOIS隐私代理与注册商数据保护责任划分",
-"url": "/library/private-domain-registration/whois-privacy-proxy-data-protection/"
-        },
-        {
-          "title": "WHOIS隐私代理服务数据保护合规评估",
-          "url": "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/"
-        }
-      ],
-    "web3-domain-identity": [
+      "url": "/library/private-domain-registration/whois-privacy-proxy-data-protection/"
+    },
+    {
+      "title": "WHOIS隐私代理服务数据保护合规评估",
+      "url": "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/"
+    }
+  ],
+  "web3-domain-identity": [
     {
       "title": "Web3域名与数字身份研究",
       "url": "/research/web3-domain-identity/"
@@ -249,6 +257,10 @@
     {
       "title": "Web3域名在去中心化身份验证中的应用评估",
       "url": "/research/web3-domain-identity/web3-domain-did-verification-application/"
+    },
+    {
+      "title": "ENS域名解析与ICANN DNS根区治理交叉评估",
+      "url": "/research/web3-domain-identity/ens-dns-root-zone-governance-assessment/"
     }
   ],
   "stablecoin-economy": [
@@ -311,6 +323,10 @@
     {
       "title": "稳定币监管框架演变对域名支付合规路径的影响",
       "url": "/research/stablecoin-economy/stablecoin-regulation-domain-compliance/"
+    },
+    {
+      "title": "算法稳定币域名抵押机制与DNS治理关联分析",
+      "url": "/research/stablecoin-economy/algorithmic-stablecoin-domain-collateral-dns-governance/"
     }
   ],
   "dns-security-governance": [
@@ -384,14 +400,18 @@
     },
     {
       "title": "DNS响应速率限制RRL配置与域名治理评估",
-"url": "/research/dns-security-governance/dns-rrl-rate-limiting-governance/"
-      },
-      {
-        "title": "DNS响应速率限制与DDoS防护治理机制",
-        "url": "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/"
-      }
-      ],
-      "cbdc-domain-infrastructure": [
+      "url": "/research/dns-security-governance/dns-rrl-rate-limiting-governance/"
+    },
+    {
+      "title": "DNS响应速率限制与DDoS防护治理机制",
+"url": "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/"
+},
+{
+"title": "DNS响应速率限制策略对域名解析稳定性的影响评估",
+"url": "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/"
+}
+],
+"cbdc-domain-infrastructure": [
     {
       "title": "CBDC与域名基础设施研究",
       "url": "/research/cbdc-domain-infrastructure/"
@@ -454,14 +474,18 @@
     },
     {
       "title": "CBDC域名结算中的DNS解析延迟评估",
-"url": "/research/cbdc-domain-infrastructure/cbdc-dns-resolution-latency-settlement/"
-        },
-        {
-          "title": "CBDC多边桥接网络中域名命名体系与DNS治理框架",
-          "url": "/research/cbdc-domain-infrastructure/cbdc-mbridge-domain-naming-dns-governance/"
-        }
-      ],
-    "nft-domain-market": [
+      "url": "/research/cbdc-domain-infrastructure/cbdc-dns-resolution-latency-settlement/"
+    },
+    {
+"title": "CBDC多边桥接网络中域名命名体系与DNS治理框架",
+"url": "/research/cbdc-domain-infrastructure/cbdc-mbridge-domain-naming-dns-governance/"
+},
+{
+"title": "CBDC批发型结算域名依赖与DNS架构韧性分析",
+"url": "/research/cbdc-domain-infrastructure/cbdc-wholesale-settlement-dns-resilience/"
+}
+],
+"nft-domain-market": [
     {
       "title": "NFT域名市场研究",
       "url": "/research/nft-domain-market/"
@@ -513,6 +537,10 @@
     {
       "title": "ENS域名二级市场定价机制与估值模型",
       "url": "/research/nft-domain-market/ens-secondary-market-pricing-model/"
+    },
+    {
+      "title": "NFT域名版税机制与ENS二级市场分成治理",
+      "url": "/research/nft-domain-market/nft-domain-royalty-mechanism-ens-governance/"
     }
   ],
   "cross-border-domain-compliance": [
@@ -575,6 +603,10 @@
     {
       "title": "跨境域名注册中的反洗钱合规评估机制",
       "url": "/research/cross-border-domain-compliance/aml-compliance-assessment-cross-border-domain/"
+    },
+    {
+      "title": "GDPR充分性认定框架下跨境域名WHOIS数据访问机制评估",
+      "url": "/research/cross-border-domain-compliance/gdpr-adequacy-decision-cross-border-domain-whois-access/"
     }
   ]
 }

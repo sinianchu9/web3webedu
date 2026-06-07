@@ -18,9 +18,10 @@
       "/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-registration/",
       "/library/buy-domain-with-usdt/usdt-transaction-confirmation-domain-transfer-risk/",
       "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/",
-      "/library/buy-domain-with-usdt/usdt-payment-channel-confirmation-comparison/"
-    ],
-    "tool": "/tools/usdt-domain-risk-checklist/",
+ "/library/buy-domain-with-usdt/usdt-payment-channel-confirmation-comparison/",
+        "/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-transaction-timing/"
+      ],
+      "tool":"/tools/usdt-domain-risk-checklist/",
     "report": "/reports/2026-usdt-domain-report/",
     "faq": "/faq/usdt-domain-registration-faq/",
     "course": "/learn/advanced-usdt-domain-payment/",
@@ -44,10 +45,11 @@
       "/library/buy-domain-with-crypto/multi-chain-crypto-domain-payment-comparison/",
       "/library/buy-domain-with-crypto/crypto-payment-channel-comparison/",
  "/library/buy-domain-with-crypto/crypto-payment-gateway-domain-registration-compliance/",
-      "/library/buy-domain-with-crypto/stablecoin-payment-gateway-domain-registration/"
-      ],
-      "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-crypto-domain-registrar-observatory/",
+"/library/buy-domain-with-crypto/stablecoin-payment-gateway-domain-registration/",
+"/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/"
+],
+"tool": "/tools/crypto-domain-registrar-comparison/",
+"report": "/reports/2026-crypto-domain-registrar-observatory/",
     "course": "/learn/crypto-domain-payment-basics/",
     "faq": "/faq/crypto-domain-payment-faq/",
     "glossary": [
@@ -127,7 +129,8 @@
       "/research/stablecoin-economy/bis-stablecoin-regulation-domain-infrastructure/",
       "/research/stablecoin-economy/usdt-reserve-audit-peg-mechanism-domain-payment-trust/",
       "/research/stablecoin-economy/usdt-depeg-risk-domain-renewal-payment/",
-      "/research/stablecoin-economy/stablecoin-regulation-domain-compliance/"
+      "/research/stablecoin-economy/stablecoin-regulation-domain-compliance/",
+    "/research/stablecoin-economy/algorithmic-stablecoin-domain-collateral-dns-governance/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-stablecoin-internet-payments/",
@@ -158,7 +161,8 @@
       "/research/dns-security-governance/dnssec-key-rotation-security-assessment/",
       "/research/dns-security-governance/dns-ptr-record-security-audit/",
  "/research/dns-security-governance/dns-rrl-rate-limiting-governance/",
-      "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/"
+      "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/",
+        "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/"
       ],
       "tool": "/tools/dnssec-check-guide/",
     "report": "/reports/2026-dns-security-governance-report/",
@@ -186,10 +190,11 @@
       "/research/cbdc-domain-infrastructure/cbdc-domain-cross-border-clearing-interoperability/",
       "/research/cbdc-domain-infrastructure/cbdc-cross-border-settlement-dns-resolution-risk/",
       "/research/cbdc-domain-infrastructure/cbdc-dns-resolution-latency-settlement/",
-      "/research/cbdc-domain-infrastructure/cbdc-mbridge-domain-naming-dns-governance/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-cbdc-domain-report/",
+"/research/cbdc-domain-infrastructure/cbdc-mbridge-domain-naming-dns-governance/",
+"/research/cbdc-domain-infrastructure/cbdc-wholesale-settlement-dns-resilience/"
+],
+"tool": "/tools/crypto-domain-registrar-comparison/",
+"report": "/reports/2026-cbdc-domain-report/",
     "faq": "/faq/cbdc-domain-faq/",
     "course": "/learn/advanced-cbdc-domain-payment/",
     "glossary": [
@@ -236,7 +241,8 @@
       "/research/cross-border-domain-compliance/gdpr-icann-domain-compliance-conflict-resolution/",
       "/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/",
       "/research/cross-border-domain-compliance/multi-jurisdiction-domain-dispute-compliance-path/",
-      "/research/cross-border-domain-compliance/aml-compliance-assessment-cross-border-domain/"
+      "/research/cross-border-domain-compliance/aml-compliance-assessment-cross-border-domain/",
+    "/research/cross-border-domain-compliance/gdpr-adequacy-decision-cross-border-domain-whois-access/"
     ],
     "tool": "/tools/domain-privacy-checklist/",
     "report": "/reports/2026-cross-border-domain-compliance-report/",
