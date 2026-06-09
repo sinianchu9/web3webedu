@@ -74,10 +74,11 @@
       "/library/private-domain-registration/domain-privacy-proxy-compliance-analysis/",
       "/library/private-domain-registration/privacy-proxy-legal-enforcement-boundary/",
       "/library/private-domain-registration/whois-privacy-proxy-data-protection/",
-      "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/"
-    ],
-    "tool": "/tools/domain-privacy-checklist/",
-    "report": "/reports/2026-domain-privacy-compliance-report/",
+"/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/",
+"/library/private-domain-registration/privacy-proxy-cross-border-law-enforcement-data-disclosure/"
+],
+"tool": "/tools/domain-privacy-checklist/",
+"report": "/reports/2026-domain-privacy-compliance-report/",
     "faq": "/faq/private-domain-registration-faq/",
     "course": "/learn/advanced-domain-privacy/",
     "glossary": [
@@ -100,9 +101,10 @@
       "/research/web3-domain-identity/web3-domain-cross-chain-identity/",
       "/research/web3-domain-identity/web3-domain-ssi-integration/",
       "/research/web3-domain-identity/ens-dns-interoperability-assessment/",
-      "/research/web3-domain-identity/web3-domain-did-verification-application/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
+"/research/web3-domain-identity/web3-domain-did-verification-application/",
+  "/research/web3-domain-identity/ens-uns-interoperability-identity-verification/"
+  ],
+  "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-web3-domain-trends/",
     "faq": "/faq/web3-domain-identity-faq/",
     "course": "/learn/advanced-web3-domain-integration/",
@@ -215,10 +217,11 @@
       "/research/nft-domain-market/nft-domain-secondary-market-trading/",
       "/research/nft-domain-market/nft-domain-investment-risk-framework/",
       "/research/nft-domain-market/nft-domain-secondary-market-liquidity-risk/",
-      "/research/nft-domain-market/ens-secondary-market-pricing-model/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
-    "report": "/reports/2026-nft-domain-market-report/",
+"/research/nft-domain-market/ens-secondary-market-pricing-model/",
+"/research/nft-domain-market/nft-domain-market-maker-liquidity-governance/"
+],
+"tool": "/tools/crypto-domain-registrar-comparison/",
+"report": "/reports/2026-nft-domain-market-report/",
     "faq": "/faq/nft-domain-faq/",
     "course": "/learn/advanced-nft-domain-trading/",
     "glossary": [
@@ -242,7 +245,8 @@
       "/research/cross-border-domain-compliance/fatf-travel-rule-cross-border-domain-compliance/",
       "/research/cross-border-domain-compliance/multi-jurisdiction-domain-dispute-compliance-path/",
       "/research/cross-border-domain-compliance/aml-compliance-assessment-cross-border-domain/",
-    "/research/cross-border-domain-compliance/gdpr-adequacy-decision-cross-border-domain-whois-access/"
+    "/research/cross-border-domain-compliance/gdpr-adequacy-decision-cross-border-domain-whois-access/",
+    "/research/cross-border-domain-compliance/udrp-cross-border-domain-compliance-review/"
     ],
     "tool": "/tools/domain-privacy-checklist/",
     "report": "/reports/2026-cross-border-domain-compliance-report/",

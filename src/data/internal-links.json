@@ -202,10 +202,14 @@
     },
     {
       "title": "WHOIS隐私代理服务数据保护合规评估",
-      "url": "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/"
-    }
-  ],
-  "web3-domain-identity": [
+"url": "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/"
+},
+{
+"title": "域名隐私代理跨境执法数据披露合规审查",
+"url": "/library/private-domain-registration/privacy-proxy-cross-border-law-enforcement-data-disclosure/"
+}
+],
+"web3-domain-identity": [
     {
       "title": "Web3域名与数字身份研究",
       "url": "/research/web3-domain-identity/"
@@ -260,10 +264,15 @@
     },
     {
       "title": "ENS域名解析与ICANN DNS根区治理交叉评估",
-      "url": "/research/web3-domain-identity/ens-dns-root-zone-governance-assessment/"
-    }
-  ],
-  "stablecoin-economy": [
+"url": "/research/web3-domain-identity/ens-dns-root-zone-governance-assessment/"
+}
+,
+{
+"title": "Web3域名ENS与UNS互操作性评估与身份验证机制",
+"url": "/research/web3-domain-identity/ens-uns-interoperability-identity-verification/"
+}
+],
+"stablecoin-economy": [
     {
       "title": "稳定币经济影响研究",
       "url": "/research/stablecoin-economy/"
@@ -540,10 +549,14 @@
     },
     {
       "title": "NFT域名版税机制与ENS二级市场分成治理",
-      "url": "/research/nft-domain-market/nft-domain-royalty-mechanism-ens-governance/"
-    }
-  ],
-  "cross-border-domain-compliance": [
+"url": "/research/nft-domain-market/nft-domain-royalty-mechanism-ens-governance/"
+},
+{
+"title": "NFT域名二级市场做市商机制与流动性治理研究",
+"url": "/research/nft-domain-market/nft-domain-market-maker-liquidity-governance/"
+}
+],
+"cross-border-domain-compliance": [
     {
       "title": "跨境域名合规研究",
       "url": "/research/cross-border-domain-compliance/"
@@ -606,7 +619,12 @@
     },
     {
       "title": "GDPR充分性认定框架下跨境域名WHOIS数据访问机制评估",
-      "url": "/research/cross-border-domain-compliance/gdpr-adequacy-decision-cross-border-domain-whois-access/"
-    }
-  ]
+"url": "/research/cross-border-domain-compliance/gdpr-adequacy-decision-cross-border-domain-whois-access/"
+}
+,
+{
+"title": "跨境域名UDRP争议解决机制与合规审查框架",
+"url": "/research/cross-border-domain-compliance/udrp-cross-border-domain-compliance-review/"
+}
+]
 }
