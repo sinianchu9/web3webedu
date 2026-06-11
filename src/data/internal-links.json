@@ -144,10 +144,14 @@
     },
     {
       "title": "加密货币域名支付通道Layer2扩展方案与ICANN合规评估",
-      "url": "/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/"
-    }
-  ],
-  "private-domain-registration": [
+"url": "/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/"
+      },
+      {
+        "title": "加密货币支付域名注册的链上确认延迟与ICANN注册周期适配机制",
+        "url": "/library/buy-domain-with-crypto/crypto-onchain-confirmation-icann-cycle/"
+      }
+    ],
+    "private-domain-registration": [
     {
       "title": "隐私域名注册完整指南",
       "url": "/library/private-domain-registration/"
@@ -424,10 +428,14 @@
     },
     {
       "title": "DNS响应速率限制策略对域名解析稳定性的影响评估",
-      "url": "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/"
-    }
-  ],
-  "cbdc-domain-infrastructure": [
+"url": "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/"
+      },
+      {
+        "title": "DNS权威服务器任播部署与区域传输安全治理框架",
+        "url": "/research/dns-security-governance/dns-anycast-axfr-governance/"
+      }
+    ],
+    "cbdc-domain-infrastructure": [
     {
       "title": "CBDC与域名基础设施研究",
       "url": "/research/cbdc-domain-infrastructure/"

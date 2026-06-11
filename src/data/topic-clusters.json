@@ -47,9 +47,10 @@
       "/library/buy-domain-with-crypto/crypto-payment-channel-comparison/",
       "/library/buy-domain-with-crypto/crypto-payment-gateway-domain-registration-compliance/",
       "/library/buy-domain-with-crypto/stablecoin-payment-gateway-domain-registration/",
-      "/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/"
-    ],
-    "tool": "/tools/crypto-domain-registrar-comparison/",
+"/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/",
+        "/library/buy-domain-with-crypto/crypto-onchain-confirmation-icann-cycle/"
+      ],
+      "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-crypto-domain-registrar-observatory/",
     "course": "/learn/crypto-domain-payment-basics/",
     "faq": "/faq/crypto-domain-payment-faq/",
@@ -166,9 +167,10 @@
       "/research/dns-security-governance/dns-ptr-record-security-audit/",
       "/research/dns-security-governance/dns-rrl-rate-limiting-governance/",
       "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/",
-      "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/"
-    ],
-    "tool": "/tools/dnssec-check-guide/",
+"/research/dns-security-governance/dns-rrl-resolution-stability-assessment/",
+        "/research/dns-security-governance/dns-anycast-axfr-governance/"
+      ],
+      "tool": "/tools/dnssec-check-guide/",
     "report": "/reports/2026-dns-security-governance-report/",
     "faq": "/faq/dns-security-faq/",
     "course": "/learn/advanced-dnssec-deployment/",
