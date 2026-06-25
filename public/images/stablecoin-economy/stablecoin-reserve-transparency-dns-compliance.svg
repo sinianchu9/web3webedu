@@ -1,0 +1,75 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="50%" stop-color="#1a1a3e"/>
+      <stop offset="100%" stop-color="#0f1f3d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Grid -->
+  <g stroke="#1e3a5f" stroke-width="0.5">
+    <line x1="0" y1="0" x2="0" y2="630"/>
+    <line x1="60" y1="0" x2="60" y2="630"/>
+    <line x1="120" y1="0" x2="120" y2="630"/>
+    <line x1="180" y1="0" x2="180" y2="630"/>
+    <line x1="240" y1="0" x2="240" y2="630"/>
+    <line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="360" y1="0" x2="360" y2="630"/>
+    <line x1="420" y1="0" x2="420" y2="630"/>
+    <line x1="480" y1="0" x2="480" y2="630"/>
+    <line x1="540" y1="0" x2="540" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="660" y1="0" x2="660" y2="630"/>
+    <line x1="720" y1="0" x2="720" y2="630"/>
+    <line x1="780" y1="0" x2="780" y2="630"/>
+    <line x1="840" y1="0" x2="840" y2="630"/>
+    <line x1="900" y1="0" x2="900" y2="630"/>
+    <line x1="960" y1="0" x2="960" y2="630"/>
+    <line x1="1020" y1="0" x2="1020" y2="630"/>
+    <line x1="1080" y1="0" x2="1080" y2="630"/>
+    <line x1="1140" y1="0" x2="1140" y2="630"/>
+    <line x1="1200" y1="0" x2="1200" y2="630"/>
+    <line x1="0" y1="30" x2="1200" y2="30"/>
+    <line x1="0" y1="90" x2="1200" y2="90"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="270" x2="1200" y2="270"/>
+    <line x1="0" y1="330" x2="1200" y2="330"/>
+    <line x1="0" y1="390" x2="1200" y2="390"/>
+    <line x1="0" y1="450" x2="1200" y2="450"/>
+    <line x1="0" y1="510" x2="1200" y2="510"/>
+    <line x1="0" y1="570" x2="1200" y2="570"/>
+    <line x1="0" y1="630" x2="1200" y2="630"/>
+  </g>
+  <!-- Diagonal -->
+  <line x1="0" y1="0" x2="1200" y2="630" stroke="url(#line)" stroke-width="2"/>
+  <line x1="1200" y1="0" x2="0" y2="630" stroke="url(#line)" stroke-width="2"/>
+  <!-- Hexagon -->
+  <polygon points="950,315 1000,270 1050,315 1050,365 1000,410 950,365" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.6"/>
+  <polygon points="150,315 200,270 250,315 250,365 200,410 150,365" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.6"/>
+  <!-- Circuit pattern -->
+  <circle cx="600" cy="315" r="80" fill="none" stroke="#00d4ff" stroke-width="1" opacity="0.3"/>
+  <circle cx="600" cy="315" r="120" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="600" cy="315" r="160" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.1"/>
+  <!-- USDT symbol -->
+  <text x="600" y="295" font-family="Arial Black, sans-serif" font-size="48" fill="#00d4ff" text-anchor="middle" font-weight="bold">USDT</text>
+  <text x="600" y="345" font-family="Arial, sans-serif" font-size="20" fill="#8899aa" text-anchor="middle">Stablecoin Reserve</text>
+  <!-- Title -->
+  <text x="600" y="430" font-family="Arial Black, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle" font-weight="bold">Reserve Transparency &</text>
+  <text x="600" y="465" font-family="Arial Black, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle" font-weight="bold">DNS Compliance</text>
+  <!-- Keywords -->
+  <rect x="420" y="490" width="140" height="32" rx="16" fill="#00d4ff" opacity="0.15"/>
+  <text x="490" y="512" font-family="Arial, sans-serif" font-size="14" fill="#00d4ff" text-anchor="middle">Reserve Audit</text>
+  <rect x="570" y="490" width="140" height="32" rx="16" fill="#00d4ff" opacity="0.15"/>
+  <text x="640" y="512" font-family="Arial, sans-serif" font-size="14" fill="#00d4ff" text-anchor="middle">FATF Travel Rule</text>
+  <rect x="720" y="490" width="140" height="32" rx="16" fill="#00d4ff" opacity="0.15"/>
+  <text x="790" y="512" font-family="Arial, sans-serif" font-size="14" fill="#00d4ff" text-anchor="middle">DNS Security</text>
+  <!-- Domain -->
+  <text x="1140" y="610" font-family="Arial, sans-serif" font-size="12" fill="#556677" text-anchor="end">miamioh.edu.pl</text>
+</svg>

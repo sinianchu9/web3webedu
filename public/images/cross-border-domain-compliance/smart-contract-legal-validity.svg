@@ -1,0 +1,59 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f3460"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Grid -->
+  <g stroke="#2a3a5e" stroke-width="0.5" opacity="0.3">
+    <line x1="0" y1="0" x2="1200" y2="630"/>
+    <line x1="1200" y1="0" x2="0" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <!-- Vertical grid -->
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+    <!-- Horizontal grid -->
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+  </g>
+  <!-- Diagonal accent -->
+  <polygon points="0,630 0,500 100,630" fill="#0f3460" opacity="0.5"/>
+  <polygon points="1200,0 1200,130 1100,0" fill="#0f3460" opacity="0.5"/>
+  <!-- Hexagons -->
+  <g fill="none" stroke="#3a5a8e" stroke-width="1" opacity="0.4">
+    <polygon points="150,150 180,135 210,150 210,180 180,195 150,180"/>
+    <polygon points="1000,450 1030,435 1060,450 1060,480 1030,495 1000,480"/>
+    <polygon points="900,100 930,85 960,100 960,130 930,145 900,130"/>
+  </g>
+  <!-- Title -->
+  <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white">
+    Smart Contract Legal Validity
+  </text>
+  <!-- Subtitle -->
+  <text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#8899aa">
+    Cross-Border Domain Transfer Compliance
+  </text>
+  <!-- Keywords -->
+  <g font-family="Arial, sans-serif" font-size="16" fill="#5a7a9a">
+    <text x="350" y="420">Smart Contract</text>
+    <text x="550" y="420">|</text>
+    <text x="600" y="420">Domain Transfer</text>
+    <text x="800" y="420">|</text>
+    <text x="900" y="420">Compliance</text>
+  </g>
+  <!-- Domain -->
+  <text x="1150" y="610" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#4a6a8a">
+    www.miamioh.edu.pl
+  </text>
+  <!-- Accent bar -->
+  <rect x="400" y="360" width="400" height="4" rx="2" fill="#4a7a9a" opacity="0.6"/>
+</svg>
