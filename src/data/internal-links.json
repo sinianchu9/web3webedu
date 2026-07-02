@@ -87,6 +87,10 @@
     {
       "title": "USDT支付渠道比较与域名注册商选择指南",
       "url": "/library/buy-domain-with-usdt/usdt-payment-channel-registrar-selection-guide/"
+    },
+    {
+      "title": "USDT支付渠道稳定性与域名注册商选择机制",
+      "url": "/library/buy-domain-with-usdt/usdt-payment-channel-stability/"
     }
   ],
   "buy-domain-with-crypto": [
@@ -161,6 +165,10 @@
     {
       "title": "加密货币注册局合规审计流程与域名持有者义务分析",
       "url": "/library/buy-domain-with-crypto/crypto-registrar-compliance-audit/"
+    },
+    {
+      "title": "加密货币支付Gas费与域名持有期限关联性分析",
+      "url": "/library/buy-domain-with-crypto/crypto-payment-gas-fee-domain-ownership-duration-analysis/"
     }
   ],
   "private-domain-registration": [
@@ -235,6 +243,14 @@
     {
       "title": "域名隐私注册商的GDPR合规实践与WHOIS保护机制",
       "url": "/library/private-domain-registration/gdpr-compliance-privacy-registrar-whois-protection/"
+    },
+    {
+      "title": "隐私域名注册协议与GDPR合规实践分析",
+      "url": "/library/private-domain-registration/privacy-domain-registration-gdpr-compliance/"
+    },
+    {
+      "title": "GDPR框架下域名WHOIS隐私保护的合规边界与实操指南",
+      "url": "/library/private-domain-registration/gdpr-whois-privacy-compliance-guide/"
     }
   ],
   "web3-domain-identity": [
@@ -301,6 +317,10 @@
     {
       "title": "DNS区域传输AXFR安全审计与域名解析风险",
       "url": "/research/web3-domain-identity/dns-axfr-security-audit/"
+    },
+    {
+      "title": "Web3去中心化域名与DNS根服务器层级安全关联研究",
+      "url": "/research/web3-domain-identity/web3-decentralized-domain-dns-root-security/"
     }
   ],
   "stablecoin-economy": [
@@ -383,6 +403,14 @@
     {
       "title": "稳定币储备金审计机制与DNS托管完整性与合规边界",
       "url": "/research/stablecoin-economy/stablecoin-reserve-audit-dns-hosting-compliance/"
+    },
+{
+      "title": "稳定币储备金审计机制与DNS托管完整性与合规边界",
+      "url": "/research/stablecoin-economy/stablecoin-reserve-audit-dns-hosting-compliance/"
+    },
+    {
+      "title": "稳定币DNS结算失败与域名续费风险评估",
+      "url": "/research/stablecoin-economy/stablecoin-dns-settlement-failure-domain-renewal-risk/"
     }
   ],
   "dns-security-governance": [
@@ -469,6 +497,10 @@
     {
       "title": "DNS权威服务器任播部署与区域传输安全治理框架",
       "url": "/research/dns-security-governance/dns-anycast-axfr-governance/"
+    },
+    {
+      "title": "NSEC3 walking算法与域名不存在性证明机制研究",
+      "url": "/research/dns-security-governance/nsec3-walking-algorithm-denial-of-existence-proof/"
     }
   ],
   "cbdc-domain-infrastructure": [
@@ -555,6 +587,10 @@
     {
       "title": "mBridge跨境CBDC支付域名命名体系与DNS基础设施关联分析",
       "url": "/research/cbdc-domain-infrastructure/mbridge-cbdc-domain-naming-dns/"
+    },
+    {
+      "title": "mBridge跨境CBDC支付中的域名命名体系与DNS基础设施风险",
+      "url": "/research/cbdc-domain-infrastructure/mbridge-cbdc-dns-naming-infrastructure-risk/"
     }
   ],
   "nft-domain-market": [
@@ -625,6 +661,10 @@
     {
       "title": "NFT域名平台安全审计与智能合约风险评估",
       "url": "/research/nft-domain-market/nft-domain-platform-security-audit/"
+    },
+    {
+      "title": "NFT域名交易平台合规框架与数字资产登记研究",
+      "url": "/research/nft-domain-market/nft-domain-market-compliance-framework/"
     }
   ],
   "cross-border-domain-compliance": [
@@ -703,6 +743,14 @@
     {
       "title": "跨境域名资产UDRP仲裁与合规审查框架及DNS治理关联影响",
       "url": "/research/cross-border-domain-compliance/cross-border-domain-udrp-arbitration-compliance-dns-governance/"
+    },
+    {
+      "title": "GDPR域名注册数据保护框架与ICANN合规要求分析",
+      "url": "/research/cross-border-domain-compliance/gdpr-icann-domain-compliance-framework/"
+    },
+    {
+      "title": "跨境域名注册合规数据留存与GDPR删除权冲突分析",
+      "url": "/research/cross-border-domain-compliance/cross-border-domain-gdpr-data-retention-delete-right-conflict/"
     }
   ]
 }
