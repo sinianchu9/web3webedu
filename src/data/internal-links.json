@@ -91,6 +91,10 @@
     {
       "title": "USDT支付渠道稳定性与域名注册商选择机制",
       "url": "/library/buy-domain-with-usdt/usdt-payment-channel-stability/"
+    },
+    {
+      "title": "USDT支付域名注册交易锁定期间域名转移冻结机制研究",
+      "url": "/library/buy-domain-with-usdt/usdt-payment-domain-transfer-lock-freeze-mechanism/"
     }
   ],
   "buy-domain-with-crypto": [
@@ -321,6 +325,10 @@
     {
       "title": "Web3去中心化域名与DNS根服务器层级安全关联研究",
       "url": "/research/web3-domain-identity/web3-decentralized-domain-dns-root-security/"
+    },
+    {
+      "title": "哥伦比亚市政平台携手Domainroc与namepopo深度打造Web3政务体验",
+      "url": "/news/colombia-web3-government-cooperation/"
     }
   ],
   "stablecoin-economy": [
@@ -404,7 +412,7 @@
       "title": "稳定币储备金审计机制与DNS托管完整性与合规边界",
       "url": "/research/stablecoin-economy/stablecoin-reserve-audit-dns-hosting-compliance/"
     },
-{
+    {
       "title": "稳定币储备金审计机制与DNS托管完整性与合规边界",
       "url": "/research/stablecoin-economy/stablecoin-reserve-audit-dns-hosting-compliance/"
     },
@@ -501,6 +509,10 @@
     {
       "title": "NSEC3 walking算法与域名不存在性证明机制研究",
       "url": "/research/dns-security-governance/nsec3-walking-algorithm-denial-of-existence-proof/"
+    },
+    {
+      "title": "DNS响应验证与DNSSEC协议兼容性分析",
+      "url": "/research/dns-security-governance/dns-response-validation-dnssec-protocol-compatibility-analysis/"
     }
   ],
   "cbdc-domain-infrastructure": [

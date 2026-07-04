@@ -20,7 +20,8 @@
       "/library/buy-domain-with-usdt/usdt-transaction-irreversibility-domain-registration/",
       "/library/buy-domain-with-usdt/usdt-payment-channel-confirmation-comparison/",
       "/library/buy-domain-with-usdt/usdt-confirmation-delay-domain-transaction-timing/",
-      "/library/buy-domain-with-usdt/usdt-grab-risk-confirmation-delay/"
+      "/library/buy-domain-with-usdt/usdt-grab-risk-confirmation-delay/",
+      "/library/buy-domain-with-usdt/usdt-payment-domain-transfer-lock-freeze-mechanism/"
     ],
     "tool": "/tools/usdt-domain-risk-checklist/",
     "report": "/reports/2026-usdt-domain-report/",
@@ -177,7 +178,8 @@
       "/research/dns-security-governance/dns-response-rate-limiting-ddos-protection/",
       "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/",
       "/research/dns-security-governance/dns-anycast-axfr-governance/",
-      "/research/dns-security-governance/nsec3-walking-algorithm-denial-of-existence-proof/"
+      "/research/dns-security-governance/nsec3-walking-algorithm-denial-of-existence-proof/",
+      "/research/dns-security-governance/dns-response-validation-dnssec-protocol-compatibility-analysis/"
     ],
     "tool": "/tools/dnssec-check-guide/",
     "report": "/reports/2026-dns-security-governance-report/",

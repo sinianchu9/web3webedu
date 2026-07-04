@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#grad2)"/>
+
+  <!-- Grid -->
+  <g stroke="#2a3a5e" stroke-width="0.5" opacity="0.5">
+    <line x1="0" y1="0" x2="1200" y2="0"/>
+    <line x1="0" y1="63" x2="1200" y2="63"/>
+    <line x1="0" y1="126" x2="1200" y2="126"/>
+    <line x1="0" y1="189" x2="1200" y2="189"/>
+    <line x1="0" y1="252" x2="1200" y2="252"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="378" x2="1200" y2="378"/>
+    <line x1="0" y1="441" x2="1200" y2="441"/>
+    <line x1="0" y1="504" x2="1200" y2="504"/>
+    <line x1="0" y1="567" x2="1200" y2="567"/>
+    <line x1="0" y1="0" x2="0" y2="630"/>
+    <line x1="120" y1="0" x2="120" y2="630"/>
+    <line x1="240" y1="0" x2="240" y2="630"/>
+    <line x1="360" y1="0" x2="360" y2="630"/>
+    <line x1="480" y1="0" x2="480" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="720" y1="0" x2="720" y2="630"/>
+    <line x1="840" y1="0" x2="840" y2="630"/>
+    <line x1="960" y1="0" x2="960" y2="630"/>
+    <line x1="1080" y1="0" x2="1080" y2="630"/>
+    <line x1="1200" y1="0" x2="1200" y2="630"/>
+  </g>
+
+  <!-- Diagonal lines -->
+  <g stroke="#3a4a7e" stroke-width="0.5" opacity="0.3">
+    <line x1="0" y1="0" x2="400" y2="630"/>
+    <line x1="200" y1="0" x2="600" y2="630"/>
+    <line x1="600" y1="0" x2="1000" y2="630"/>
+    <line x1="800" y1="0" x2="1200" y2="630"/>
+    <line x1="1200" y1="0" x2="800" y2="630"/>
+  </g>
+
+  <!-- Hexagons -->
+  <g fill="none" stroke="#4a5a9e" stroke-width="1" opacity="0.4">
+    <polygon points="150,315 180,340 180,380 150,405 120,380 120,340"/>
+    <polygon points="1050,200 1080,225 1080,265 1050,290 1020,265 1020,225"/>
+    <polygon points="1000,450 1030,475 1030,515 1000,540 970,515 970,475"/>
+  </g>
+
+  <!-- Shield icon -->
+  <g transform="translate(80, 80)">
+    <text x="0" y="30" font-family="Arial" font-size="40" font-weight="bold" fill="#26a17b">🛡</text>
+  </g>
+
+  <!-- Chain icon -->
+  <g transform="translate(150, 80)">
+    <text x="0" y="30" font-family="Arial" font-size="40" font-weight="bold" fill="#627eea">⛓</text>
+  </g>
+
+  <!-- DNS icon -->
+  <g transform="translate(220, 80)">
+    <text x="0" y="30" font-family="Arial" font-size="40" font-weight="bold" fill="#f7931a">🌐</text>
+  </g>
+
+  <!-- Main title -->
+  <text x="600" y="260" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" filter="url(#glow2)">Stablecoin Reserve Audit</text>
+  <text x="600" y="310" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" filter="url(#glow2)">DNS Trust Infrastructure</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="20" fill="#a0a0c0" text-anchor="middle">Reserve Transparency | DNSSEC | Compliance Framework</text>
+
+  <!-- Tag -->
+  <g transform="translate(480, 480)">
+    <rect x="0" y="0" width="240" height="36" rx="18" fill="#26a17b" opacity="0.8"/>
+    <text x="120" y="24" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">USDT Purchase Domain</text>
+  </g>
+
+  <!-- Website domain -->
+  <text x="1100" y="600" font-family="Arial, sans-serif" font-size="14" fill="#6060a0" text-anchor="end">miamioh.edu.pl</text>
+
+  <!-- Corner dots -->
+  <g fill="#4a5a9e" opacity="0.6">
+    <circle cx="30" cy="30" r="3"/>
+    <circle cx="1170" cy="30" r="3"/>
+    <circle cx="30" cy="600" r="3"/>
+    <circle cx="1170" cy="600" r="3"/>
+  </g>
+</svg>
