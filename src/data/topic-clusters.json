@@ -51,7 +51,8 @@
       "/library/buy-domain-with-crypto/crypto-domain-payment-layer2-icann-compliance/",
       "/library/buy-domain-with-crypto/crypto-onchain-confirmation-icann-cycle/",
       "/library/buy-domain-with-crypto/crypto-registrar-compliance-audit/",
-      "/library/buy-domain-with-crypto/crypto-payment-gas-fee-domain-ownership-duration-analysis/"
+      "/library/buy-domain-with-crypto/crypto-payment-gas-fee-domain-ownership-duration-analysis/",
+      "/library/buy-domain-with-crypto/crypto-layer2-scaling-domain-registration-latency/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-crypto-domain-registrar-observatory/",
@@ -81,7 +82,8 @@
       "/library/private-domain-registration/whois-privacy-proxy-data-protection/",
       "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/",
       "/library/private-domain-registration/privacy-proxy-cross-border-law-enforcement-data-disclosure/",
-      "/library/private-domain-registration/gdpr-whois-privacy-compliance-guide/"
+      "/library/private-domain-registration/gdpr-whois-privacy-compliance-guide/",
+      "/library/private-domain-registration/privacy-proxy-freeze-order-disclosure-mechanism/"
     ],
     "tool": "/tools/domain-privacy-checklist/",
     "report": "/reports/2026-domain-privacy-compliance-report/",
@@ -108,7 +110,8 @@
       "/research/web3-domain-identity/web3-domain-ssi-integration/",
       "/research/web3-domain-identity/ens-dns-interoperability-assessment/",
       "/research/web3-domain-identity/web3-domain-did-verification-application/",
-      "/research/web3-domain-identity/ens-uns-interoperability-identity-verification/"
+      "/research/web3-domain-identity/ens-uns-interoperability-identity-verification/",
+      "/research/web3-domain-identity/web3-domain-reverse-resolution-identity-verification/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-web3-domain-trends/",
@@ -179,7 +182,8 @@
       "/research/dns-security-governance/dns-rrl-resolution-stability-assessment/",
       "/research/dns-security-governance/dns-anycast-axfr-governance/",
       "/research/dns-security-governance/nsec3-walking-algorithm-denial-of-existence-proof/",
-      "/research/dns-security-governance/dns-response-validation-dnssec-protocol-compatibility-analysis/"
+      "/research/dns-security-governance/dns-response-validation-dnssec-protocol-compatibility-analysis/",
+      "/research/dns-security-governance/edns0-extended-dns-dnssec-signature-compatibility-audit/"
     ],
     "tool": "/tools/dnssec-check-guide/",
     "report": "/reports/2026-dns-security-governance-report/",
@@ -235,7 +239,8 @@
       "/research/nft-domain-market/nft-domain-investment-risk-framework/",
       "/research/nft-domain-market/nft-domain-secondary-market-liquidity-risk/",
       "/research/nft-domain-market/ens-secondary-market-pricing-model/",
-      "/research/nft-domain-market/nft-domain-market-maker-liquidity-governance/"
+      "/research/nft-domain-market/nft-domain-market-maker-liquidity-governance/",
+      "/research/nft-domain-market/ens-short-name-gilding-valuation-model/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-nft-domain-market-report/",
@@ -267,7 +272,8 @@
       "/research/cross-border-domain-compliance/udrp-cross-border-transfer-legal-conflict/",
       "/research/cross-border-domain-compliance/udrp-arbitration-cross-border-compliance/",
       "/research/cross-border-domain-compliance/cross-border-domain-udrp-arbitration-compliance-dns-governance/",
-      "/research/cross-border-domain-compliance/cross-border-domain-gdpr-data-retention-delete-right-conflict/"
+      "/research/cross-border-domain-compliance/cross-border-domain-gdpr-data-retention-delete-right-conflict/",
+      "/research/cross-border-domain-compliance/icann-raa-cross-border-enforcement-mechanism/"
     ],
     "tool": "/tools/domain-privacy-checklist/",
     "report": "/reports/2026-cross-border-domain-compliance-report/",
