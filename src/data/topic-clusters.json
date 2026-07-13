@@ -52,7 +52,8 @@
       "/library/buy-domain-with-crypto/crypto-onchain-confirmation-icann-cycle/",
       "/library/buy-domain-with-crypto/crypto-registrar-compliance-audit/",
       "/library/buy-domain-with-crypto/crypto-payment-gas-fee-domain-ownership-duration-analysis/",
-      "/library/buy-domain-with-crypto/crypto-layer2-scaling-domain-registration-latency/"
+      "/library/buy-domain-with-crypto/crypto-layer2-scaling-domain-registration-latency/",
+      "/library/crypto-domain-payment-refund-icann-dispute-resolution/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-crypto-domain-registrar-observatory/",
@@ -83,7 +84,8 @@
       "/library/private-domain-registration/whois-privacy-proxy-data-protection-assessment/",
       "/library/private-domain-registration/privacy-proxy-cross-border-law-enforcement-data-disclosure/",
       "/library/private-domain-registration/gdpr-whois-privacy-compliance-guide/",
-      "/library/private-domain-registration/privacy-proxy-freeze-order-disclosure-mechanism/"
+      "/library/private-domain-registration/privacy-proxy-freeze-order-disclosure-mechanism/",
+      "/library/private-domain-registration/whois-privacy-proxy-freeze-order-response-disclosure-boundary/"
     ],
     "tool": "/tools/domain-privacy-checklist/",
     "report": "/reports/2026-domain-privacy-compliance-report/",
@@ -147,7 +149,8 @@
       "/research/stablecoin-economy/stablecoin-regulation-dns-compliance-correlation/",
       "/research/stablecoin-economy/stablecoin-reserve-transparency-dns-compliance/",
       "/research/stablecoin-economy/stablecoin-reserve-audit-dns-hosting-compliance/",
-      "/research/stablecoin-economy/stablecoin-dns-settlement-failure-domain-renewal-risk/"
+      "/research/stablecoin-economy/stablecoin-dns-settlement-failure-domain-renewal-risk/",
+      "/research/stablecoin-collateral-domain-asset-confirmation-dns-governance/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-stablecoin-internet-payments/",
@@ -214,7 +217,9 @@
       "/research/cbdc-domain-infrastructure/cbdc-mbridge-domain-naming-dns-governance/",
       "/research/cbdc-domain-infrastructure/cbdc-wholesale-settlement-dns-resilience/",
       "/research/cbdc-domain-infrastructure/mbridge-cbdc-domain-naming-dns/",
-      "/research/cbdc-domain-infrastructure/mbridge-cbdc-dns-naming-infrastructure-risk/"
+      "/research/cbdc-domain-infrastructure/mbridge-cbdc-dns-naming-infrastructure-risk/",
+      "/research/cbdc-domain-infrastructure/cbdc-wallet-domain-binding-dns-resolution-disaster-recovery/",
+      "/research/cbdc-offline-payment-dns-resolution-degradation-domain-availability/"
     ],
     "tool": "/tools/crypto-domain-registrar-comparison/",
     "report": "/reports/2026-cbdc-domain-report/",
@@ -273,7 +278,8 @@
       "/research/cross-border-domain-compliance/udrp-arbitration-cross-border-compliance/",
       "/research/cross-border-domain-compliance/cross-border-domain-udrp-arbitration-compliance-dns-governance/",
       "/research/cross-border-domain-compliance/cross-border-domain-gdpr-data-retention-delete-right-conflict/",
-      "/research/cross-border-domain-compliance/icann-raa-cross-border-enforcement-mechanism/"
+      "/research/cross-border-domain-compliance/icann-raa-cross-border-enforcement-mechanism/",
+      "/research/cross-border-domain-dispute-stablecoin-settlement-legal-compliance/"
     ],
     "tool": "/tools/domain-privacy-checklist/",
     "report": "/reports/2026-cross-border-domain-compliance-report/",

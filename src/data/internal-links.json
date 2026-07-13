@@ -177,6 +177,10 @@
     {
       "title": "加密货币支付通道的Layer2扩容机制与域名注册延迟关系分析",
       "url": "/library/buy-domain-with-crypto/crypto-layer2-scaling-domain-registration-latency/"
+    },
+    {
+      "title": "加密货币域名支付退款与ICANN争议解决",
+      "url": "/library/crypto-domain-payment-refund-icann-dispute-resolution/"
     }
   ],
   "private-domain-registration": [
@@ -263,6 +267,10 @@
     {
       "title": "隐私域名注册的执法披露冻结令响应机制",
       "url": "/library/private-domain-registration/privacy-proxy-freeze-order-disclosure-mechanism/"
+    },
+    {
+      "title": "WHOIS隐私代理冻结令响应流程与域名数据披露边界",
+      "url": "/library/private-domain-registration/whois-privacy-proxy-freeze-order-response-disclosure-boundary/"
     }
   ],
   "web3-domain-identity": [
@@ -431,6 +439,10 @@
     {
       "title": "稳定币DNS结算失败与域名续费风险评估",
       "url": "/research/stablecoin-economy/stablecoin-dns-settlement-failure-domain-renewal-risk/"
+    },
+    {
+      "title": "稳定币抵押域名资产确权机制与DNS治理关联分析",
+      "url": "/research/stablecoin-collateral-domain-asset-confirmation-dns-governance/"
     }
   ],
   "dns-security-governance": [
@@ -619,6 +631,14 @@
     {
       "title": "mBridge跨境CBDC支付中的域名命名体系与DNS基础设施风险",
       "url": "/research/cbdc-domain-infrastructure/mbridge-cbdc-dns-naming-infrastructure-risk/"
+    },
+    {
+      "title": "CBDC钱包域名绑定与DNS解析容灾机制分析",
+      "url": "/research/cbdc-domain-infrastructure/cbdc-wallet-domain-binding-dns-resolution-disaster-recovery/"
+    },
+    {
+      "title": "CBDC离线支付DNS解析降级与域名可用性",
+      "url": "/research/cbdc-offline-payment-dns-resolution-degradation-domain-availability/"
     }
   ],
   "nft-domain-market": [
@@ -787,6 +807,10 @@
     {
       "title": "ICANN RAA跨境执行机制与域名注册商监管合规",
       "url": "/research/cross-border-domain-compliance/icann-raa-cross-border-enforcement-mechanism/"
+    },
+    {
+      "title": "跨境域名纠纷中稳定币结算的法律适用与合规审查框架",
+      "url": "/research/cross-border-domain-dispute-stablecoin-settlement-legal-compliance/"
     }
   ]
 }
